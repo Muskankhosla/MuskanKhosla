@@ -82,9 +82,7 @@ More about education in my [LinkedIn](https://www.linkedin.com/in/muskan-khosla-
 
 
 
-
-<details>
-<summary><b> Some Statistics Fun </b></summary>
+### Some Statistics Fun 
 <div align="center">
 <img src='https://github-readme-stats.vercel.app/api?username=MuskanKhosla&show_icons=true&theme=tokyonight&count_private=true&line_height=40'  align="left" />
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=MuskanKhosla&theme=tokyonight&hide_langs_below=4' />
@@ -96,4 +94,4 @@ More about education in my [LinkedIn](https://www.linkedin.com/in/muskan-khosla-
 <img src="https://activity-graph.herokuapp.com/graph?username=MuskanKhosla&theme=react-dark&bg_color=20232a&hide_border=true" width="100%">
 
 </div>
-</details>
+
