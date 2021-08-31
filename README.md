@@ -61,3 +61,20 @@ I am also an open-source enthusiast and maintainer. i learned a lot from the ope
 [twitter]: https://twitter.com/muskankhosla4/
 [facebook]: https://www.facebook.com/Muskankhosla/
 [leetcode]: https://leetcode.com/muskan08/
+
+
+### Work experience 👔
+| Job Position          | Company        | Field                           | Work Period                |
+| --------------------- | -------------- | ------------------------------- | -------------------------- |
+|      |                |                |                                 |                            |
+
+
+More about work experience in my [LinkedIn](https://www.linkedin.com.in/muskan-khosla-792793205/).<br>
+
+### Education 🎓
+- **Bachelor's degree** in Computer Science and Engineering at Chitkara University (2019 - 2023)<br>
+- **Higher Studies **   in NON-Medical Stream at Sri GURU HARKRISHAN INTERNATIONAL SCHOOL(2017-2019)<br>
+- - **Matric** at Sri GURU HARKRISHAN public SCHOOL(2010-2017)<br>
+
+More about education in my [LinkedIn](https://www.linkedin.com/in/muskan-khosla-792793205/).
+
