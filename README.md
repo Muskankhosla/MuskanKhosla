@@ -78,3 +78,8 @@ More about work experience in my [LinkedIn](https://www.linkedin.com.in/muskan-k
 
 More about education in my [LinkedIn](https://www.linkedin.com/in/muskan-khosla-792793205/).
 
+### Skills 🛠️
+- **Languages**:        C++ , SQL
+- **WEB DEV**: &nbsp;  HTML, CSS , JS, NODEJs, REACTJs etc.
+- **DBMS**:  &emsp;     Oracle (PL/SQL), My SQL 
+
