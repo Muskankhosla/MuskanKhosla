@@ -5,7 +5,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
   <img align="right" alt="GIF" src="https://cdn.ucberkeleybootcamp.com/wp-content/uploads/sites/106/2020/07/CDG_blog_post_image_08.jpg" width="500" height="320" />
   
-- 💼 Any freelance work? do reach, [email](mailto:khosla.muskan01@gmail.com) :)
+- 💼 Any freelance work? do reach, [Email](mailto:khosla.muskan01@gmail.com) :)
 - 💬 Ask me about anything, i am happy to help..
 - 🔭 I’m currently working on Website Development!!
 - 🌱 I’m currently learning Data Structures and Algorithms in C++
