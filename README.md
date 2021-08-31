@@ -4,7 +4,7 @@ I am a FULLSTACK dev Looking to solve a real world Problem.I have a passion for 
 I am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://cdn.ucberkeleybootcamp.com/wp-content/uploads/sites/106/2020/07/CDG_blog_post_image_08.jpg" width="500" height="320" />
   
 - 💼 any freelance work? do reach, [email](mailto:khosla.muskan01@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
