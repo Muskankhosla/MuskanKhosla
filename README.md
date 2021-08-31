@@ -22,7 +22,7 @@ I am a FULLSTACK dev Looking to solve a real world Problem.I have a passion for 
 
  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Bhavesh Garg's DEV Profile" height="23" width="26"> </a>
 <br /><br/>
-![](https://komarev.com/ghpvc/?username=bhavesh1129&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=MuskanKhosla&color=blueviolet)
 
 ### Languages and Tools:
 
