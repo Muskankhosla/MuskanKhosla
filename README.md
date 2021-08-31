@@ -45,7 +45,7 @@ I am a FULLSTACK dev Looking to solve a real world Problem.I have a passion for 
 </p>
 
 <!-- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhavesh1129&layout=compact&theme=jolly)](https://github.com/bhavesh1129/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuskanKhosla&layout=compact&theme=jolly)](https://github.com/MuskanKhosla/github-readme-stats) 
 -->
 
 [instagram]:https://www.instagram.com/_muskan_khosla__/
