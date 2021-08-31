@@ -1,15 +1,12 @@
 ### Hi there , I am Muskan !!👋
-I am a FULLSTACK dev Looking to solve a real world Problem.I have a passion for learning and sharing my knowledge with others as publically as possible.If you found value in something ,please feel free to give a Shoutout I am a passionate self-taught full stack web developer and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
-
-I am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
+I am a FULLSTACK Developer looking to solve real world Problems .I have  passion for learning and sharing my knowledge with others as publically as possible . If you found value in something , please feel free to give a Shoutout . I am a passionate , self-taught full stack web developer and a freelance software engineer from India . My passion for software lies with dreaming up ideas and making them come true with elegant interfaces . I take great care in the experience, architecture, and code quality of the things I build.
+I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
 
   <img align="right" alt="GIF" src="https://cdn.ucberkeleybootcamp.com/wp-content/uploads/sites/106/2020/07/CDG_blog_post_image_08.jpg" width="500" height="320" />
   
-- 💼 any freelance work? do reach, [email](mailto:khosla.muskan01@gmail.com) :)
-- 💬 ask me about anything, i am happy to help;
-
-
+- 💼 Any freelance work? do reach, [email](mailto:khosla.muskan01@gmail.com) :)
+- 💬 Ask me about anything, i am happy to help..
 - 🔭 I’m currently working on Website Development!!
 - 🌱 I’m currently learning Data Structures and Algorithms in C++
 - 👯 I’m looking to collaborate on Web Develompent project
@@ -75,7 +72,7 @@ More about work experience in my [LinkedIn](https://www.linkedin.com.in/muskan-k
 ### Education 🎓
 - **Bachelor's degree** in Computer Science and Engineering at Chitkara University (2019 - 2023)<br>
 - **Higher Studies **   in NON-Medical Stream at Sri GURU HARKRISHAN INTERNATIONAL SCHOOL(2017-2019)<br>
-- - **Matric** at Sri GURU HARKRISHAN public SCHOOL(2010-2017)<br>
+-  **Matric**            at Sri GURU HARKRISHAN public SCHOOL(2010-2017)<br>
 
 More about education in my [LinkedIn](https://www.linkedin.com/in/muskan-khosla-792793205/).
 
