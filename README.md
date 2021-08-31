@@ -47,11 +47,6 @@ I am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <br />
 <br />
 
-<p>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=MuskanKhosla&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=MuskanKhosla&theme=tokyonight" />
-</p>
-
 <!-- 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuskanKhosla&layout=compact&theme=jolly)](https://github.com/MuskanKhosla/github-readme-stats) 
 -->
