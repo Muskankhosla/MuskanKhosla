@@ -40,8 +40,8 @@ I am a FULLSTACK dev Looking to solve a real world Problem.I have a passion for 
 <br />
 
 <p>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=bhavesh1129&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=bhavesh1129&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=MuskanKhosla&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=MuskanKhosla&theme=tokyonight" />
 </p>
 
 <!-- 
