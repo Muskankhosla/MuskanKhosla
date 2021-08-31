@@ -1,5 +1,5 @@
 ### Hi there , I am Muskan !!👋
-
+I am a FULLSTACK dev Looking to solve a real world Problem.I have a passion for learning and sharing my knowledge with others as publically as possible.If you found value in something ,please feel free to give a Shoutout.
 
 
 - 🔭 I’m currently working on Website Development!!
