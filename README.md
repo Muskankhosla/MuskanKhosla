@@ -61,7 +61,13 @@ I am also an open-source enthusiast and maintainer. i learned a lot from the ope
 ### Work experience 👔
 | Job Position          | Company        | Field                           | Work Period                |
 | --------------------- | -------------- | ------------------------------- | -------------------------- |
-|      |                |                |                                 |                            |
+|                       |                |                                 |                            |
+|                       |                |                                 |                            |
+|                       |                |                                 |                            |
+|                       |                |                                 |                            |
+
+
+
 
 
 More about work experience in my [LinkedIn](https://www.linkedin.com.in/muskan-khosla-792793205/).<br>
@@ -74,11 +80,18 @@ More about work experience in my [LinkedIn](https://www.linkedin.com.in/muskan-k
 More about education in my [LinkedIn](https://www.linkedin.com/in/muskan-khosla-792793205/).
 
 ### Skills 🛠️
-- **Languages** :        C++ , SQL
+- **Languages**:        C++ , SQL
 - **WEB DEV**: &nbsp;  HTML, CSS , JS, NODEJs, REACTJs etc.
 - **DBMS**:  &emsp;     Oracle (PL/SQL), My SQL 
 
 ### Certifications 📜
+|Title                  | CourseName     | Achievements                    | Time Period                |
+| --------------------- | -------------- | ------------------------------- | -------------------------- |
+|                       |                |                                 |                            |
+|                       |                |                                 |                            |
+|                       |                |                                 |                            |
+|                       |                |                                 |                            |
+
 
 
 
