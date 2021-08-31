@@ -20,7 +20,7 @@ I am a FULLSTACK dev Looking to solve a real world Problem.I have a passion for 
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />][leetcode]
 
- <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Bhavesh Garg's DEV Profile" height="23" width="26"> </a>
+ <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Muskan's DEV Profile" height="23" width="26"> </a>
 <br /><br/>
 ![](https://komarev.com/ghpvc/?username=MuskanKhosla&color=blueviolet)
 
