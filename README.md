@@ -1,5 +1,13 @@
 ### Hi there , I am Muskan !!👋
-I am a FULLSTACK dev Looking to solve a real world Problem.I have a passion for learning and sharing my knowledge with others as publically as possible.If you found value in something ,please feel free to give a Shoutout.
+I am a FULLSTACK dev Looking to solve a real world Problem.I have a passion for learning and sharing my knowledge with others as publically as possible.If you found value in something ,please feel free to give a Shoutout I am a passionate self-taught full stack web developer and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+
+I am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
+
+
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  
+- 💼 any freelance work? do reach, [email](mailto:khosla.muskan01@gmail.com) :)
+- 💬 ask me about anything, i am happy to help;
 
 
 - 🔭 I’m currently working on Website Development!!
