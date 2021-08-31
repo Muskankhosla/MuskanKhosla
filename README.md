@@ -50,6 +50,6 @@ I am a FULLSTACK dev Looking to solve a real world Problem.I have a passion for 
 
 [instagram]:https://www.instagram.com/_muskan_khosla__/
 [linkedin]: https://www.linkedin.com/in/muskan-khosla-792793205/
-[twitter]: https://twitter.com/muskankhosla4
+[twitter]: https://twitter.com/muskankhosla4/
 [facebook]: https://www.facebook.com/Muskankhosla/
 [leetcode]: https://leetcode.com/muskan08/
