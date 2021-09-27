@@ -6,7 +6,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 [![Muskan's github activity graph](https://activity-graph.herokuapp.com/graph?username=Muskankhosla&theme=xcode)](https://github.com/Muskankhosla/github-readme-activity-graph)
 
-  <img align="right" alt="GIF" src="https://cdn.ucberkeleybootcamp.com/wp-content/uploads/sites/106/2020/07/CDG_blog_post_image_08.jpg" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://cdn.ucberkeleybootcamp.com/wp-content/uploads/sites/106/2020/07/CDG_blog_post_image_08.jpg" width="600" height="420" />
   
 - 💼 Any freelance work? do reach, [Email](mailto:khosla.muskan01@gmail.com) :)
 - 💬 Ask me about anything, i am happy to help..
