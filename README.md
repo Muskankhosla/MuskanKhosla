@@ -1,7 +1,10 @@
 ### Hi there , I am Muskan !!👋
 I am a FULLSTACK Developer looking to solve real world Problems .I have  passion for learning and sharing my knowledge with others as publically as possible . If you found value in something , please feel free to give a Shoutout . I am a passionate , self-taught full stack web developer and a freelance software engineer from India . My passion for software lies with dreaming up ideas and making them come true with elegant interfaces . I take great care in the experience, architecture, and code quality of the things I build.
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
+[![Muskan's github activity graph](https://activity-graph.herokuapp.com/graph?username=MuskanKhosla&theme=xcode)](https://git.io/MuskanKhosla)
 
+<br>
+<br>
 
   <img align="right" alt="GIF" src="https://cdn.ucberkeleybootcamp.com/wp-content/uploads/sites/106/2020/07/CDG_blog_post_image_08.jpg" width="500" height="320" />
   
@@ -47,9 +50,10 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 ### Software & Technologies:
 <img align="left" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Git" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="40px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /><br>
+<img align="left" alt="Git" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /> 
+<img align="left" alt="GitHub" width="40px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /> 
+<img align="left" alt="Terminal" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+  <br>
 
 
 
@@ -105,13 +109,10 @@ More about education in my [LinkedIn](https://www.linkedin.com/in/muskan-khosla-
 ### Some Statistics Fun 
 <div align="center">
 <img src='https://github-readme-stats.vercel.app/api?username=MuskanKhosla&show_icons=true&theme=tokyonight&count_private=true&line_height=40'  align="left" />
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=MuskanKhosla&theme=tokyonight&hide_langs_below=4' />
+ <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=MuskanKhosla&theme=tokyonight&hide_langs_below=4' />
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=MuskanKhosla&theme=onedark&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MuskanKhosla&theme=dark)
-
-<img src="https://activity-graph.herokuapp.com/graph?username=MuskanKhosla&theme=react-dark&bg_color=20232a&hide_border=true" width="100%">
 
 </div>
 
