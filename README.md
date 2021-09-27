@@ -3,10 +3,8 @@
 <h3 align="center"> :woman_student:A passionate Computer Science Engineering Student  ! !</h3>
 I am a FULLSTACK Developer looking to solve real world Problems .I have  passion for learning and sharing my knowledge with others as publically as possible . If you found value in something , please feel free to give a Shoutout . I am a passionate , self-taught full stack web developer and a freelance software engineer from India . My passion for software lies with dreaming up ideas and making them come true with elegant interfaces . I take great care in the experience, architecture, and code quality of the things I build.
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
-[![Muskan's github activity graph](https://activity-graph.herokuapp.com/graph?username=MuskanKhosla&theme=xcode)](https://git.io/MuskanKhosla)
 
-<br>
-<br>
+[![Muskan's github activity graph](https://activity-graph.herokuapp.com/graph?username=Muskankhosla&theme=xcode)](https://github.com/Muskankhosla/github-readme-activity-graph)
 
   <img align="right" alt="GIF" src="https://cdn.ucberkeleybootcamp.com/wp-content/uploads/sites/106/2020/07/CDG_blog_post_image_08.jpg" width="500" height="320" />
   
