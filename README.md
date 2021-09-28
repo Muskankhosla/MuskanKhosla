@@ -2,11 +2,11 @@
 <h1 align="center">🙋 Hi, I'm Muskan </h1>
 <h3 align="center"> :woman_student:A passionate Computer Science Engineering Student  ! !</h3>
 I am a FULLSTACK Developer looking to solve real world Problems . I have  passion for learning and sharing my knowledge with others as publically as possible . If you found value in something , please feel free to give a Shoutout . I am a passionate , self-taught full stack web developer and a freelance software engineer from India . My passion for software lies with dreaming up ideas and making them come true with elegant interfaces . I take great care in the experience, architecture, and code quality of the things I build.
-I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
+I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.<br><br>
 
-[![Muskan's github activity graph](https://activity-graph.herokuapp.com/graph?username=Muskankhosla&theme=xcode)](https://github.com/Muskankhosla/github-readme-activity-graph)
+[![Muskan's github activity graph](https://activity-graph.herokuapp.com/graph?username=Muskankhosla&theme=xcode)](https://github.com/Muskankhosla/github-readme-activity-graph)<br><br>
 
-  <img align="right" alt="GIF" src="https://cdn.ucberkeleybootcamp.com/wp-content/uploads/sites/106/2020/07/CDG_blog_post_image_08.jpg" width="600" height="420" />
+  <img align="right" alt="GIF" src="https://cdn.ucberkeleybootcamp.com/wp-content/uploads/sites/106/2020/07/CDG_blog_post_image_08.jpg" width="500" height="320" />
   
 - 💼 Any freelance work? do reach, [Email](mailto:khosla.muskan01@gmail.com) :)
 - 💬 Ask me about anything, i am happy to help..
@@ -14,7 +14,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 - 🌱 I’m currently learning Data Structures and Algorithms in C++
 - 👯 I’m looking to collaborate on Web Develompent project
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about C++ , Web Development courses and anything related to FullStack development.
+- 💬 Ask me about C ,C++ , Web Development courses and anything related to FullStack development.
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I am ready to explore!!!!
 -->
