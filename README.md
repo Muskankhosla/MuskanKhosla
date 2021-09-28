@@ -77,8 +77,18 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 
 More about work experience in my [LinkedIn](https://www.linkedin.com.in/muskan-khosla-792793205/).<br>
-
+<div>  
+  <h3><b><i>Check These Repos If You Like</i></b></h3>
+<a href="https://github.com/Muskankhosla/C-Programming">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Muskankhosla&repo=C-Programming&theme=tokyonight" />
+</a>
+<a href="https://github.com/Muskankhosla/CplusPlus">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Muskankhosla&repo=CplusPlus&theme=tokyonight" />
+</a>
+</div>
+<br>
 ### Education 🎓
+<br>
 - **Bachelor's degree** in Computer Science and Engineering at Chitkara University (2019 - 2023)<br>
 - **Higher Studies**    in NON-Medical Stream at Sri GURU HARKRISHAN INTERNATIONAL SCHOOL(2017-2019)<br>
 -    **Matric**          at Sri GURU HARKRISHAN public SCHOOL(2010-2017)<br>
