@@ -17,7 +17,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 - 💬 Ask me about C ,C++ , Web Development courses and anything related to FullStack development.
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I am ready to explore!!!!
--->
+
 
 
 ### Connect with me:
@@ -106,10 +106,9 @@ More about education in my [LinkedIn](https://www.linkedin.com/in/muskan-khosla-
 ### Some Statistics Fun 
 <div align="center">
 <img src='https://github-readme-stats.vercel.app/api?username=MuskanKhosla&show_icons=true&theme=tokyonight&count_private=true&line_height=40'  align="left" />
- <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=MuskanKhosla&theme=tokyonight&hide_langs_below=4' />
+ <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=MuskanKhosla&theme=tokyonight&hide_langs_below=4' align="right" /><br/>
 
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=MuskanKhosla&theme=dark)
+![](https://github-readme-streak-stats.herokuapp.com/?user=MuskanKhosla&theme=tokyonight)
 
 </div>
 
