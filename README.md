@@ -109,6 +109,6 @@ More about education in my [LinkedIn](https://www.linkedin.com/in/muskan-khosla-
  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=MuskanKhosla&theme=tokyonight&hide_langs_below=4' align="right" /><br/>
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MuskanKhosla&theme=tokyonight)
-]
+
 </div>
 
