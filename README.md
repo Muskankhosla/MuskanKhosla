@@ -110,5 +110,6 @@ More about education in my [LinkedIn](https://www.linkedin.com/in/muskan-khosla-
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MuskanKhosla&theme=tokyonight)
 
+![photo_2021-12-06_12-10-24](https://user-images.githubusercontent.com/63408330/144799683-51d26cb3-43df-4737-9df4-76737acd8a92.jpg )
 </div>
 
