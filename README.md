@@ -67,7 +67,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 ### Work experience 👔
 | Job Position          | Company        | Field                           | Work Period                |
 | --------------------- | -------------- | ------------------------------- | -------------------------- |
-|                       |                |                                 |                            |
+|         Intern        |   Calsoft      |    DevOps                       |                            |
 |                       |                |                                 |                            |
 |                       |                |                                 |                            |
 |                       |                |                                 |                            |
