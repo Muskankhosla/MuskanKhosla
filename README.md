@@ -1,6 +1,6 @@
 
 <h1 align="center">🙋 Hi, I'm Muskan </h1>
-<h3 align="center"> :woman_student:A passionate Computer Science Engineering Student  ! !</h3>
+<h3 align="center"> :woman_student:A passionate DevOps Engineer  ! !</h3>
 I am a Developer looking to solve real world Problems . I have  passion for learning and sharing my knowledge with others as publically as possible . If you found value in something , please feel free to give a Shoutout . I am a passionate , self-taught developer and a freelance software engineer from India . My passion for software lies with dreaming up ideas and making them come true with elegant interfaces . I take great care in the experience, architecture, and code quality of the things I build.
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.<br><br>
 
@@ -91,6 +91,7 @@ More about education in my [LinkedIn](https://www.linkedin.com/in/muskan-khosla-
 - **Languages**:        C,C++ , SQL
 - **WEB DEV**: &nbsp;  HTML, CSS , JS, NODEJs, REACTJs etc.
 - **DBMS**:  &emsp;     Oracle (PL/SQL), My SQL 
+- **DEVOPS**: &nbsp;  Git , Gitlab , Bash Scripting , Jenkins , Docker , Ansible and more
 
 ### Certifications 📜
 |Title                  | CourseName     | Achievements                    | Time Period                |
