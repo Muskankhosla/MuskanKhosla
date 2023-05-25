@@ -106,10 +106,6 @@ More about education in my [LinkedIn](https://www.linkedin.com/in/muskan-khosla-
 
 ### Some Statistics Fun 
 <div align="center">
-<img src='https://github-readme-stats.vercel.app/api?username=MuskanKhosla&show_icons=true&theme=tokyonight&count_private=true&line_height=40'  align="left" />
- <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=MuskanKhosla&theme=tokyonight&hide_langs_below=4' align="right" /><br/>
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=MuskanKhosla&theme=tokyonight)
-
+<img src='https://github-readme-stats.vercel.app/api?username=MuskanKhosla&show_icons=true&theme=tokyonight&count_private=true&line_height=35'  align="left" />
 </div>
 
