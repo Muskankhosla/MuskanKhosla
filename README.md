@@ -10,11 +10,11 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
   
 - 💼 Any freelance work? do reach, [Email](mailto:khosla.muskan01@gmail.com) :)
 - 💬 Ask me about anything, i am happy to help..
-- 🔭 I’m currently working on Website Development!!
-- 🌱 I’m currently learning Data Structures and Algorithms in C++
-- 👯 I’m looking to collaborate on Web Develompent project
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about C ,C++ , Web Development courses and anything related to FullStack development.
+- 🔭 I’m currently working on DevOps Engineering !!
+- 🌱 I’m currently learning Docker , ansible , shell scripting , jenkins and much more !!
+- 👯 I’m looking to collaborate on DevOps project
+- 🤔 I’m looking for help with Kubernetes
+- 💬 Ask me about C ,C++ ,  DevOps courses .
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I am ready to explore!!!!
 
