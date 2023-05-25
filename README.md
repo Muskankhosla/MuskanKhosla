@@ -4,9 +4,9 @@
 I am a Developer looking to solve real world Problems . I have  passion for learning and sharing my knowledge with others as publically as possible . If you found value in something , please feel free to give a Shoutout . I am a passionate , self-taught developer and a freelance software engineer from India . My passion for software lies with dreaming up ideas and making them come true with elegant interfaces . I take great care in the experience, architecture, and code quality of the things I build.
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.<br><br>
 
-[![Muskan's github activity graph](https://activity-graph.herokuapp.com/graph?username=Muskankhosla&theme=xcode)](https://github.com/Muskankhosla/github-readme-activity-graph)<br><br>
 
-  <img align="right" alt="GIF" src="https://cdn.ucberkeleybootcamp.com/wp-content/uploads/sites/106/2020/07/CDG_blog_post_image_08.jpg" width="500" height="320" />
+
+  <img align="right" alt="GIF" src="https://www.techrepublic.com/wp-content/uploads/2021/07/devops-concept.jpg" width="500" height="320" />
   
 - 💼 Any freelance work? do reach, [Email](mailto:khosla.muskan01@gmail.com) :)
 - 💬 Ask me about anything, i am happy to help..
