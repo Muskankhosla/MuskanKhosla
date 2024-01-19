@@ -6,7 +6,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 
 
-  <img align="right" alt="GIF" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linkedin.com%2Fpulse%2Fskills-becoming-devops-engineer-megha-s-k&psig=AOvVaw1QyhrTalNsynGxJoynpI0F&ust=1705741723694000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNj7wKaN6YMDFQAAAAAdAAAAABAD" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://media.licdn.com/dms/image/C5612AQEaEQMrHlZIdA/article-cover_image-shrink_720_1280/0/1649826988602?e=1710979200&v=beta&t=-8xCSI9B3zZwiYYTj6JsoV79I52GqOFwHco6nbsfqtA" width="500" height="320" />
   
 - 💼 Any freelance work? do reach, [Email](mailto:khosla.muskan01@gmail.com) :)
 - 💬 Ask me about anything, i am happy to help..
