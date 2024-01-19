@@ -6,7 +6,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 
 
-  <img align="right" alt="GIF" src="https://www.techrepublic.com/wp-content/uploads/2021/07/devops-concept.jpg" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linkedin.com%2Fpulse%2Fskills-becoming-devops-engineer-megha-s-k&psig=AOvVaw1QyhrTalNsynGxJoynpI0F&ust=1705741723694000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNj7wKaN6YMDFQAAAAAdAAAAABAD" width="500" height="320" />
   
 - 💼 Any freelance work? do reach, [Email](mailto:khosla.muskan01@gmail.com) :)
 - 💬 Ask me about anything, i am happy to help..
