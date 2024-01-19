@@ -67,8 +67,8 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 ### Work experience 👔
 | Job Position          | Company        | Field                           | Work Period                |
 | --------------------- | -------------- | ------------------------------- | -------------------------- |
-|         Intern        |   Calsoft      |    DevOps                       |                            |
-|                       |                |                                 |                            |
+|  Development Engineer |   Calsoft      |    DevOps                       |     Current                |
+|      Intern           |   Calsoft      |    Devops                       | 2022 - 2023                |
 |                       |                |                                 |                            |
 |                       |                |                                 |                            |
 
@@ -88,7 +88,7 @@ More about work experience in my [LinkedIn](https://www.linkedin.com.in/muskan-k
 More about education in my [LinkedIn](https://www.linkedin.com/in/muskan-khosla-792793205/).
 
 ### Skills 🛠️
-- **Languages**:        C,C++ , SQL
+- **Languages**:       C ,C++ , SQL
 - **WEB DEV**: &nbsp;  HTML, CSS , JS, NODEJs, REACTJs etc.
 - **DBMS**:  &emsp;     Oracle (PL/SQL), My SQL 
 - **DEVOPS**: &nbsp;  Git , Gitlab , Bash Scripting , Jenkins , Docker , Ansible and more
